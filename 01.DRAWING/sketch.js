@@ -39,9 +39,3 @@ function draw() {
 
   
 }
-
-//large black circle
-
-//large grey circle border
-
-//grey triangle border with dip curp

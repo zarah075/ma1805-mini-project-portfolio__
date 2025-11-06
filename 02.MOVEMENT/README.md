@@ -1,0 +1,5 @@
+EXPERTISE LEVEL: I did python a while ago when I was younger and did just a bit of QBasic in high school, however I have had no experience with coding since, so I would say beginner.
+
+02.MOVEMENT ('02.MOVEMENT/index.html')
+For the movement prompt, I wanted to digitally recreate the process of a pour painting, where you stack different colours of paint and simply pour over the canvas. As I have done this before, I used colours similar to those in my painting. I tweaked the rotation functions a lot to get them in specific positions. I found it difficult to understand them. Once again, I struggled with the values on the triangles and changing their position proved really difficult. I along the line made the mistake of having the canvas set to window height and window width, and then in my code confining the shapes to move within points that ended at 500; It took me quite some time to discover and understand the mistake. However I was able to fix this and get the desired effect. I had originally intended to layer text over it, however I found this to be really complicated when the 'WEBGL' function is in use, and hence did ot include it.
+
